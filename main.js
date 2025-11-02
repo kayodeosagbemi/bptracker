@@ -1,0 +1,1 @@
+console.log("Welcome to my first javascript file in this project");
